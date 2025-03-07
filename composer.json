@@ -1,5 +1,5 @@
 {
-  "name": "elrincondeisma/laravel-cloudwatch-logs",
+  "name": "pagevamp/laravel-cloudwatch-logs",
   "description": "Laravel Adapter for AWS CloudWatch",
   "type": "library",
   "license": "MIT",
@@ -21,7 +21,7 @@
   },
   "require": {
     "maxbanton/cwh": "^1.1.14 || ^2.0",
-    "illuminate/support": "^5.1 || ^6.0 || ^7.0 || ^8.0 || ^9.0"
+    "illuminate/support": "^5.1 || ^6.0 || ^7.0 || ^8.0 || ^9.0" || ^10.0" || 11.0" || ^12.0"
   },
   "require-dev": {
     "friendsofphp/php-cs-fixer": "^2.12 || ^2.16",
